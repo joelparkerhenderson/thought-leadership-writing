@@ -1,15 +1,11 @@
 # Thought leadership writing
 
-Thought leadership writing help for 
-
-  * content creators
-
-  * bloggers and social media authors
-
-  * creative team editors and proofreaders
+Thought leadership writing tips for content creators, bloggers, social media authors, creative team editors, and proofreaders.
 
 Contents:
 
+* [Introduction: what is thought leadership?](#introduction-what-is-thought-leadership)
+* [Prologue: Never Call Yourself a Thought Leader](#prologue-never-call-yourself-a-thought-leader)
 * [The Value of B2B Thought Leadership Survey Results](#the-value-of-b2b-thought-leadership-survey-results)
 * [Mission.org: The Best Thought Leadership I’ve Ever Seen](#mission-org-the-best-thought-leadership-i-ve-ever-seen)
 * [Business Writing Tips for Professionals](#business-writing-tips-for-professionals)
@@ -17,6 +13,29 @@ Contents:
 * [The Storytelling Spine](#the-storytelling-spine)
 * [Pixar story basics](#pixar-story-basics)
 * [Writing analysis tools](#writing-analysis-tools)
+
+
+## Introduction: what is thought leadership?
+
+Thought leaders are go-to people in their field of expertise. 
+
+When people say they are a thought leader, they are saying they take the time to help others by doing good work, and also working to package it up via blog posts, slide shares, conference talks, and the like, so that other people can learn. ([Credit](https://www.inc.com/sangram-vajre/3-reasons-you-should-never-call-yourself-a-thought-leader.html))
+
+In business, thought leadership is when your customers look to you for advice about big questions, and 
+when you share your perspectives and recommendations. Thought leaadership can be especially helpful with inspiring ideas and innovative insights.
+
+Thought leadership writing is challenging because the goal is clear communication about complex topics. To help with thought leadership writing, this page has tips that we use to help our teammates.
+
+
+## Prologue: Never Call Yourself a Thought Leader
+
+Source: [3 Reasons You Should Never Call Yourself a Thought Leader](https://www.inc.com/sangram-vajre/3-reasons-you-should-never-call-yourself-a-thought-leader.html)
+
+1. The title of "thought leader" is an honor to be earned. "Thought leader" is a term other people use when referring to truly visionary people. They shouldn't use it about themselves.
+
+2. Calling yourself a thought leader makes you unrelatable. Telling someone you're a thought leader is like telling people you're rich; it usually means you aren't, and it's gauche. 
+
+3. "Thought leader" is becoming an overused term. Other overused nicknames are maven, visionary, guru, rock star, game changer, ninja, entrepreneur, and the like.
 
 
 ## The Value of B2B Thought Leadership Survey Results
@@ -40,6 +59,7 @@ We surveyed the C-suite at FTSE 350 firms to find out what they expected from th
   * What content would be most useful in the future? 80% said that they wanted content that they – and their peers – were involved in developing. 
 
   * Monday lunchtimes matter. Two thirds of senior executives seek out thought leadership on a Monday. The two hour slot between 12 noon and 2pm is the single most popular time. 
+
 
 
 ## Mission.org: The Best Thought Leadership I’ve Ever Seen
