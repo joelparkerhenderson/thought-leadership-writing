@@ -38,9 +38,9 @@ Source: [3 Reasons You Should Never Call Yourself a Thought Leader](https://www.
 3. "Thought leader" is becoming an overused term. Other overused nicknames are maven, visionary, guru, rock star, game changer, ninja, entrepreneur, and the like.
 
 
-## The Value of B2B Thought Leadership Survey Results
+## The Value of B2B Thought Leadership
 
-https://www.slideshare.net/Grist_Ltd/grist-value-of-b2b-thought-leadership-survey-102649247
+Source: [Grist value of B2B Thought Leadership Survey](https://www.slideshare.net/Grist_Ltd/grist-value-of-b2b-thought-leadership-survey-102649247)
 
 We surveyed the C-suite at FTSE 350 firms to find out what they expected from thought leadership, how and when it was consumed, and what would make it better. 
 
@@ -62,9 +62,9 @@ We surveyed the C-suite at FTSE 350 firms to find out what they expected from th
 
 
 
-## Mission.org: The Best Thought Leadership I’ve Ever Seen
+## The Best Thought Leadership
 
-https://medium.com/the-mission/the-best-thought-leadership-ive-ever-seen-2331ae07783b
+Source: [Mission.org: The Best Thought Leadership I’ve Ever Seen](https://medium.com/the-mission/the-best-thought-leadership-ive-ever-seen-2331ae07783b)
 
 1. Present an Arc — With a Transformation, a Journey, or a Conflict. The one thing most publishers should take out of hours of drawn-out literature classes is the universality of the narrative arc. There’s an exposition, rising action, a climax, and falling action to a resolution. This structure is universal because anything else is just boring. Try transformation stories, The Hero’s Journey, Man vs. Man, Man vs. Society, Man vs. Nature, Man vs. Self, etc.
 
@@ -79,7 +79,7 @@ https://medium.com/the-mission/the-best-thought-leadership-ive-ever-seen-2331ae0
 
 ## Business Writing Tips for Professionals
 
-Summary of [Business Writing Tips for Professionals: Ten easy ways to improve your business writing skills](https://www.amanet.org/articles/business-writing-tips-for-professionals/)
+Source: [Business Writing Tips for Professionals: Ten easy ways to improve your business writing skills](https://www.amanet.org/articles/business-writing-tips-for-professionals/)
 
   * State your most important point up front in the first sentence.
 
@@ -127,7 +127,7 @@ Priority order:
 
 ## The Storytelling Spine
 
-https://medium.com/@Brian_G_Peters/6-rules-of-great-storytelling-as-told-by-pixar-fcc6ae225f50
+Source: [6 rules of great storytelling as told by Pixar](https://medium.com/@Brian_G_Peters/6-rules-of-great-storytelling-as-told-by-pixar-fcc6ae225f50)
 
 Once upon a time, there was [blank]. 
 
@@ -140,9 +140,9 @@ Because of that, [blank].
 Until finally, [blank].
 
 
-## Pixar story basics
+## Pixar storybasics
 
-https://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar
+Source: [Storybasics I've picked up in my time at Pixar](https://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar)
 
 Pixar rules of storytelling by Emma Coats:
 
@@ -152,7 +152,7 @@ Pixar rules of storytelling by Emma Coats:
   
   3: Trying for theme is important, but you won’t see what the story is actually about til you’re at the end of it. Now rewrite.
   
-  4: Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
+  4: Once upon a time, there was ___. Every day, ___. One day, ___. Because of that, ___. Because of that, ___. Until finally, ___.
   
   5: Simplify. Focus. Combine characters. Hop over detours. You’ll feel like you’re losing valuable stuff but it sets you free.
   
