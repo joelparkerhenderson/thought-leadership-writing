@@ -142,9 +142,7 @@ Source: [6 rules of great storytelling as told by Pixar](https://medium.com/@Bri
 
 ## Pixar storybasics
 
-Source: [Storybasics I've picked up in my time at Pixar](https://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar)
-
-Pixar rules of storytelling by Emma Coats:
+Source: [Storybasics I've picked up in my time at Pixar; by Emma Coats](https://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar)
 
   1: You admire a character for trying more than for their successes.
   
