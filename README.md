@@ -12,6 +12,7 @@ Contents:
 
 * [The Value of B2B Thought Leadership Survey Results](#the-value-of-b2b-thought-leadership-survey-results)
 * [Mission.org: The Best Thought Leadership I’ve Ever Seen](#mission-org-the-best-thought-leadership-i-ve-ever-seen)
+* [Business Writing Tips for Professionals](#business-writing-tips-for-professionals)
 
 
 ## The Value of B2B Thought Leadership Survey Results
@@ -50,4 +51,30 @@ https://medium.com/the-mission/the-best-thought-leadership-ive-ever-seen-2331ae0
 4. Give Clear Action Items and Make Reading Feel Worthwhile. Action items come in many forms — tools for self-improvement, thought experiments, mental models, and mantras by which to live — and run the gambit from explicit business content to self-help to philosophy. If your readership is expecting something more abstract, give them mental models and psychological tools for thinking about the subject matter in your work. Charts and graphs are fantastic tools for concretizing abstractions.
 
 5. Don’t Feel Bound to a Formula / Treat Your Thought Leadership as A Startup. Take a lesson from the startup world: test, test, test. Use beta readers. Get your content out there early. Get feedback. Understand what works. Do less of what doesn’t. Engage an email list. Publish on a prominent platform. Teach classes and give lectures on the topic. Run a podcast interviewing people on the topic. Write, publish, test, pivot. 
+
+
+## Business Writing Tips for Professionals
+
+Summary of [Business Writing Tips for Professionals: Ten easy ways to improve your business writing skills](https://www.amanet.org/articles/business-writing-tips-for-professionals/)
+
+  * State your most important point up front in the first sentence.
+
+  * Be clear, concise, to the point.
+
+  * Use a strong active voice, not an impersonal passive voice.
+
+  * Write in a conversational tone-- unless you're writing to an audience that wants formality.
+
+  * Replace hyperbole with solid facts and reputable testimonials.
+
+  * Replace your company acronyms/buzzwords/jargon with words that your audience knows.
+
+  * Read your document aloud, to help you find any awkwardness and fix it.
+
+  * Write from your customer’s perspective.
+
+  * Convert features into benefits to engage your customer emotionally. 
+
+  * Know your goal: who is your target audience and what is your target result?
+
 
