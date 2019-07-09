@@ -13,6 +13,7 @@ Contents:
 * [The Value of B2B Thought Leadership Survey Results](#the-value-of-b2b-thought-leadership-survey-results)
 * [Mission.org: The Best Thought Leadership I’ve Ever Seen](#mission-org-the-best-thought-leadership-i-ve-ever-seen)
 * [Business Writing Tips for Professionals](#business-writing-tips-for-professionals)
+* [Writing checklist for web content](#writing-checklist-for-web-content)
 
 
 ## The Value of B2B Thought Leadership Survey Results
@@ -76,5 +77,28 @@ Summary of [Business Writing Tips for Professionals: Ten easy ways to improve yo
   * Convert features into benefits to engage your customer emotionally. 
 
   * Know your goal: who is your target audience and what is your target result?
+
+
+## Writing checklist for web content
+
+Priority order:
+
+  * Readers skim. Write sentences that are short, simple, and direct.
+
+  * Readers snip. Write one highlight point per sentence, and per paragraph, and per section.
+
+  * Readers scan. Write to minimize participle phrases, prepositional phrases, subordinate clauses, appositives, litotes, etc.
+
+  * Readers want action. Prefer active verbs vs. passive verbs such as "is", "be", "was".
+
+  * Readers want immediacy. Prefer near (e.g. here and now) vs. far (e.g. there and then).
+
+  * Readers respond to recommendations. Prefer imperative present tense (e.g. "create") vs. past modals such as "should have created", "would have been creating", etc.
+
+  * Readers respond to proof. Prefer substantiation (e.g. direct quotes, statitistics, citations) vs. unsubstantation (e.g. opinions, conjectures, specultations).
+
+  * Readers have a wide range of language skill levels. Favor straightforward words vs. allusion, connotation, innuendo, hyperbole, sarcasm, irony, etc.
+
+  * Readers have a wide range of culture considerations. Favor straightforward meanings vs. allegory, personification, onomatopoeia, pathetic fallacy, etc.
 
 
