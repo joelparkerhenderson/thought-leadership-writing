@@ -129,15 +129,15 @@ Our team checklist in priority order:
 
 Source: [6 rules of great storytelling as told by Pixar](https://medium.com/@Brian_G_Peters/6-rules-of-great-storytelling-as-told-by-pixar-fcc6ae225f50)
 
-Once upon a time, there was [blank]. 
+  * Once upon a time, there was [blank]. 
 
-Every day, [blank]. 
+  * Every day, [blank]. 
 
-One day, [blank]. 
+  * One day, [blank]. 
 
-Because of that, [blank]. 
+  * Because of that, [blank]. 
 
-Until finally, [blank].
+  * Until finally, [blank].
 
 
 ## Pixar storybasics
