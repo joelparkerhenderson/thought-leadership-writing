@@ -16,6 +16,7 @@ Contents:
 * [Writing checklist for web content](#writing-checklist-for-web-content)
 * [The Storytelling Spine](#the-storytelling-spine)
 * [Pixar story basics](#pixar-story-basics)
+* [Writing analysis tools](#writing-analysis-tools)
 
 
 ## The Value of B2B Thought Leadership Survey Results
@@ -170,3 +171,14 @@ Pixar rules of storytelling by Emma Coats:
   22: What’s the essence of your story? Most economical telling of it? If you know that, you can build out from there.
 
 
+## Writing analysis tools
+
+[Datayze](https://datayze.com/) [writing tools](https://datayze.com/index.php?category=writing):
+
+* [Readability Analyzer](https://datayze.com/readability-analyzer.php): Estimate the readability of a passage of text using the Flesch Reading Ease, Fog Scale Level, Flesch-Kincaid Grade Level, and other metrics.
+
+* [Passive Voice Detector](https://datayze.com/passive-voice-detector.php): Automatically detects passive voice in a block of text.
+
+* [Difficult & Extraneous Word Finder](https://datayze.com/difficult-word-finder.php): Identify possible weak points in your prose, to help you write clearly and concisely.
+
+* [Thin Content Checker](https://datayze.com/thin-content-checker.php): Analyze a website and the percentage of unique content on each page. 
