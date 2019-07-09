@@ -14,6 +14,7 @@ Contents:
 * [Mission.org: The Best Thought Leadership I’ve Ever Seen](#mission-org-the-best-thought-leadership-i-ve-ever-seen)
 * [Business Writing Tips for Professionals](#business-writing-tips-for-professionals)
 * [Writing checklist for web content](#writing-checklist-for-web-content)
+* [The Storytelling Spine](#the-storytelling-spine)
 
 
 ## The Value of B2B Thought Leadership Survey Results
@@ -102,3 +103,16 @@ Priority order:
   * Readers have a wide range of culture considerations. Favor straightforward meanings vs. allegory, personification, onomatopoeia, pathetic fallacy, etc.
 
 
+## The Storytelling Spine
+
+https://medium.com/@Brian_G_Peters/6-rules-of-great-storytelling-as-told-by-pixar-fcc6ae225f50
+
+Once upon a time, there was [blank]. 
+
+Every day, [blank]. 
+
+One day, [blank]. 
+
+Because of that, [blank]. 
+
+Until finally, [blank].
