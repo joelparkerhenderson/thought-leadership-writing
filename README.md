@@ -104,25 +104,25 @@ Source: [Business Writing Tips for Professionals: Ten easy ways to improve your 
 
 ## Writing checklist for web content
 
-Priority order:
+Our team checklist in priority order:
 
   * Readers skim. Write sentences that are short, simple, and direct.
 
   * Readers snip. Write one highlight point per sentence, and per paragraph, and per section.
 
-  * Readers scan. Write to minimize participle phrases, prepositional phrases, subordinate clauses, appositives, litotes, etc.
+  * Readers scan. Minimize participle phrases, prepositional phrases, subordinate clauses, appositives, litotes, etc.
 
   * Readers want action. Prefer active verbs vs. passive verbs such as "is", "be", "was".
 
   * Readers want immediacy. Prefer near (e.g. here and now) vs. far (e.g. there and then).
 
-  * Readers respond to recommendations. Prefer imperative present tense (e.g. "create") vs. past modals such as "should have created", "would have been creating", etc.
+  * Readers respond to recommendations. Prefer imperative present tense (e.g. "create") vs. past or passive.
 
-  * Readers respond to proof. Prefer substantiation (e.g. direct quotes, statitistics, citations) vs. unsubstantation (e.g. opinions, conjectures, specultations).
+  * Readers respond to proof. Prefer evidence (e.g. quotes, citations) vs. opinons (e.g. conjectures, specultations).
 
-  * Readers have a wide range of language skill levels. Favor straightforward words vs. allusion, connotation, innuendo, hyperbole, sarcasm, irony, etc.
+  * Readers have ranges of languages. Prefer direct words vs. allusion, connotation, hyperbole, sarcasm, irony, etc.
 
-  * Readers have a wide range of culture considerations. Favor straightforward meanings vs. allegory, personification, onomatopoeia, pathetic fallacy, etc.
+  * Readers have ranges of cultures. Prefer direct meanings vs. allegory, personification, onomatopoeia, etc.
 
 
 ## The Storytelling Spine
