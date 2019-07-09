@@ -1,6 +1,6 @@
 # Thought leadership writing
 
-Thought leadership writing tips for content creators, bloggers, social media authors, creative team editors, and proofreaders.
+Thought leadership writing tips for content creators, bloggers, authors, and editors.
 
 Contents:
 
